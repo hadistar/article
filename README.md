@@ -14,10 +14,6 @@ To use the code, navigate into the folder of the research article you are intere
 
 We welcome contributions to improve the code and analyses. If you have suggestions, please open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Contact
 
 If you have any questions or need further information, please feel free to contact us through GitHub or the email provided in the research article.
