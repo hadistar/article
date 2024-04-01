@@ -1,6 +1,6 @@
 # Research Article Code Repository
 
-Welcome to the code repository for our research articles! This space contains the raw code used in the analysis of research articles. 
+Welcome to the code repository for our research articles. This space contains the raw code used in the analysis of research articles. 
 
 ## Folder Structure
 
